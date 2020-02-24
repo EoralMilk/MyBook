@@ -14,7 +14,7 @@
 
 - 当前许多网站都广泛使用 Markdown 来撰写帮助文档或是用于论坛上发表消息。例如：GitHub、简书、reddit、Diaspora、Stack Exchange、OpenStreetMap 、SourceForge等。
   
-- 咱个人使用的编辑器是<abbr title="Visual Studio Code">vscode</abbr>可以写代码的同时观察到实现效果，除此之外还有很多其他编辑器，例如Typora，gitbook editor等等。  
+- 咱个人使用的编辑器是<abbr title="Visual Studio Code">vscode</abbr>可以写代码的同时观察到实现效果，除此之外还有很多其他编辑器，例如Typora等。  
 
 ## **目录：**
 > [1. 标题与分割线](#1)  
